@@ -1,11 +1,13 @@
 # color_game_rgb
 
+The Game was built by using simple HTML, CSS , Vanilla JavaScript,
+Where Players can play many number of times, Player can choose mode i.e easy or hard ,
+if player chooses Easy mode the app hides the 3 colors in the seconds.
 
-RGB color game .Fun to play ;Helps to practice RGB Values
 
 
 click the link to play the game:
 
 
-https://srikanthreddy376.github.io/color_game_rgb/
+-[https://srikanthreddy376.github.io/color_game_rgb/] Color Game
 
