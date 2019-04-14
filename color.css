@@ -17,11 +17,14 @@ body {
 }
 .rules {
     color: #f8f8f8;
-    padding: 5px 10px;
     background-color: #5e8036;
     font-family: sans-serif;
     font-size: 15px
 }
+.rules p {
+	 padding: 5px;
+}
+
 #container {
 	max-width:  600px;
 	margin:0 auto;
